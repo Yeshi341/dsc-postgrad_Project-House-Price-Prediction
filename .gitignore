@@ -6,3 +6,6 @@
 .Spotlight-V100
 .Trashes
 .ipynb_checkpoints
+
+# Data Folder
+data/
